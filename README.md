@@ -1,0 +1,1 @@
+This configuration sets up a fully functional data lake with S3 for storage, Glue for metadata management, Glue Crawlers for schema discovery, and Athena for querying the data.
